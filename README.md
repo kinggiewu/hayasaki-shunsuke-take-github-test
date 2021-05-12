@@ -1,1 +1,1 @@
-# hayasaki-shunsuke-take-github-test
+# take-github-test
